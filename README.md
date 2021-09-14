@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Python.
 - 💞️ I’m looking to collaborate on web development..
 - 📫 How to reach me Libked in : https://www.linkedin.com/in/shilpi-das-1203b81a3/..
-- 📫 My competitive coding profile: https://linktr.ee/das_shilpi_28
+- 📫 My competitive coding profile: https://flow.page/das-shilpi-28
 
 <!---
 das-shilpi-12/das-shilpi-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
