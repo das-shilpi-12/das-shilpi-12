@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning  Python.
 - 💞️ I’m looking to collaborate on web development..
 - 📫 How to reach me Libked in : (https://www.linkedin.com/in/shilpidas28/)
-- 📫 My competitive coding profile: https://flow.page/das-shilpi-28
+- 📫 My Tableau profile: https://public.tableau.com/app/profile/shilpi.das
+- 📫 My Competitive coding Profile : https://www.stopstalk.com/user/profile/das_shilpi_28
+-
 
 <!---
 das-shilpi-12/das-shilpi-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
