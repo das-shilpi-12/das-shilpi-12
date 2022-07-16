@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @das-shilpi-12..(Shilpi das)
-- 🌱 SQL &S SIS Developer in TCS
+- 🌱 SQL & SSIS Developer in TCS
 - 👀 I’m interested in Data Visualization ,Tableau, Python,C/C++,JAVA,Web development, Web designing,data analytics,data migration,Machine learing & AI ....
 - 🌱 I’m currently learning and working in Tableau & Power Bi mini projects.
 - 📫 How to reach me Linked in : (https://www.linkedin.com/in/shilpidas28/)
