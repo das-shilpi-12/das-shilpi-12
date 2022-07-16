@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @das-shilpi-12..(Shilpi das)
 - 🌱 SQL & SSIS Developer in Tata Consultancy Services [TCS]
 - 👀 I’m interested in Data Visualization ,Tableau, Python,C/C++,JAVA,Web development, Web designing,data analytics,data migration,Machine learing & AI ....
-- 🌱 I’m currently learning and working in Tableau & Power Bi mini projects.
+- 🌱 I’m currently learning and working on Tableau & Power BI mini projects.
 - 📫 How to reach me Linked in : (https://www.linkedin.com/in/shilpidas28/)
 - 🎉 My Tableau profile: https://public.tableau.com/app/profile/shilpi.das
 - ✨ My Hackerrank Profile : https://www.hackerrank.com/das_shilpi_28?hr_r=1
